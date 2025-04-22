@@ -17,6 +17,7 @@ public class App {
 		
 		Handler handler = new Handler();
 		
+		// This is the comment added by dev2
 		
 		System.out.println("Welcome to My Sports Scheduler");
 		System.out.println("Initializing...");
