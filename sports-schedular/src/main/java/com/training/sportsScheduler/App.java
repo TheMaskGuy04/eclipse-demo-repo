@@ -18,7 +18,7 @@ public class App {
 		Handler handler = new Handler();
 		
 		
-		System.out.println("Welcome to Sports Scheduler");
+		System.out.println("Welcome to My Sports Scheduler");
 		System.out.println("Initializing...");
 		handler.createNewGround("G1");
 		handler.createNewGround("G2");
